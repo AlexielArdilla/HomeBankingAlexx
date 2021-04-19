@@ -7,6 +7,6 @@ La idea es lograr esta pantalla:(loguearse como John Connor y mandar todo el din
 
 ## A ver si pueden en el live:
 
-https://alexielardilla.github.io/HomeBankigAlexx/
+https://alexielardilla.github.io/HomeBankingAlexx/
 
 ## Modificación del repositorio https://github.com/eduardomgonzalez/HomeBanking
